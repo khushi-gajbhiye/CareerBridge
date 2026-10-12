@@ -513,10 +513,5 @@ Contributions are welcome! If you would like to contribute:
 
 ---
 
-## License
-
-License information can be added when the project is released.
-
----
 
 **CareerBridge &copy; 2026** — Campus Internship & Placement Management System.
